@@ -1,0 +1,3 @@
+mkdir ecommerce
+cd ecommerce
+virtualenv -p python3 .

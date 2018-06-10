@@ -1,0 +1,22 @@
+## Chapter 009
+mkdir ecommerce
+cd ecommerce
+virtualenv -p python3 .
+source bin/activate
+
+## Chapter 010
+
+
+## Chapter 011
+
+
+## Chapter 012
+
+
+## Chapter 013
+
+
+## Chapter 014
+
+
+## Chapter 015
